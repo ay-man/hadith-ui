@@ -1,3 +1,0 @@
-# hadith-ui 
-Chicken
-LIDAHK
